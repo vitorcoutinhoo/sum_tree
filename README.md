@@ -54,7 +54,7 @@ def sum_tree(LSUM: list):
 ```
 
 ### Resultados
-###### Foi utilizado `N_SUM = 16` (quantidade de números a ser somado) e `N_WORD = 8` (tamanho dos números a ser somado), ambos podendo ser alterado no arquivo _custom.vhd_.
+Foi utilizado `N_SUM = 16` (quantidade de números a ser somado) e `N_WORD = 8` (tamanho dos números a ser somado), ambos podendo ser alterado no arquivo _custom.vhd_.
 
 #### RTL
 Após a implementação do módulo _sum_tree.vhd_ obteve-se o seguinte _RTL_:
