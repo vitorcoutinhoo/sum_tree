@@ -7,7 +7,7 @@ o objetivo desta atividade é implementar a operação de soma em VHDL utilizand
 
 ```
 📁 assets
-├── rtl.pdf           # PDF gerado a partir do RTL do código principal
+├── rtl.png           # png gerado a partir do RTL do código principal
 └── waveform.png      # Imagem da forma de onda (waveform) após a simulação/teste
 📁 libs
 ├── custom
